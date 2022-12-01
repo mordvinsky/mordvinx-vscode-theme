@@ -4,6 +4,10 @@
   "description": "mordvinx smart color theme",
   "version": "0.0.1",
   "publisher": "AlexandrMordvinShaporov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mordvinsky/mordvinx-vscode-theme"
+  },
   "keywords" :[
     "theme",
     "Darcula",
